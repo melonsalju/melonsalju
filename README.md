@@ -9,7 +9,7 @@
 
 ### 🧠 About Me  
 - 🚀 Full Stack Developer focused on **modern web applications**  
-- 💡 Experienced in **JavaScript, TypeScript, PHP, Laravel, Vue, React, Next.js**  
+- 💡 Experienced in **JavaScript, TypeScript, PHP, Laravel, Vue, React, Next.js, and many more!**  
 - 🧩 Exploring **mobile & desktop development** (Flutter, Kotlin, React Native)  
 - 🌱 Currently leveling up my **system design** and **architecture** skills  
 - ⚡ Fun fact: I love Cheese🧀  
