@@ -44,7 +44,7 @@
 ---
 
 ### 🌐 Connect with Me  
-<p align="center">
+<p align="left">
   <a href="mailto:fernandojocevine.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
