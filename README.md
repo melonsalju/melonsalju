@@ -45,13 +45,13 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="mailto:fernandojocevine.work@gmail.com">
+  <a href="mailto:fernandojocevine.work@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/fernando-jocevine-2111b624a/">
+  <a href="https://www.linkedin.com/in/fernando-jocevine-2111b624a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/melonsalju">
+  <a href="https://github.com/melonsalju" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
